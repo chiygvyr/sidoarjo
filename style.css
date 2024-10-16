@@ -1,0 +1,33 @@
+img {
+    width: 600px;
+    margin-left: auto; 
+    margin-right: auto;  
+    display: block;
+}
+
+h1{
+    text-align: center;
+    color: bisque;
+}
+
+h2{
+    text-align: center;
+    color: bisque;
+}
+h3{
+    text-align: center;
+    color: bisque;
+}
+
+body {
+    background-color: rgb(114, 48, 48);
+}
+
+
+form{
+    text-align: center;
+}
+
+label{
+    color: bisque;
+}
